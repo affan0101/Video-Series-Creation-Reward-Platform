@@ -6,6 +6,8 @@ The Video Series Creation Reward Platform is a decentralized application (dApp) 
 
 ## Contract Address
 0xa3ebb743b849f173d9b6c3c09c11b876daf77a6d
+![image](https://github.com/user-attachments/assets/4876c508-a17a-4abb-9d0f-6005f4fb4c62)
+
 
 ## Project Vision
 The vision of the Video Series Creation Reward Platform is to revolutionize how video creators are rewarded by leveraging the power of blockchain technology. The platform aims to create a fair, transparent, and decentralized ecosystem where creators can monetize their content directly, and viewers can contribute to their favorite creators' success.
